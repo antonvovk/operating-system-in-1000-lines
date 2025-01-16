@@ -41,3 +41,7 @@
 *.bin
 *.log
 *.pcap
+
+.idea
+.idea/editor.xml
+.idea/vcs.xml
